@@ -1,14 +1,24 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{FD1BDAAF-E323-5214-FEFF-E1C22C54358D}") = "Indoor VR Preview for Android", "Assembly-CSharp.csproj", "{C434437A-0834-DEDA-E440-06436EEF12A3}"
+EndProject
+Project("{FD1BDAAF-E323-5214-FEFF-E1C22C54358D}") = "Indoor VR Preview for Android", "Assembly-CSharp-Editor.csproj", "{05D0B1DD-FB5B-E0F9-E5AA-88B619E3DFFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{C434437A-0834-DEDA-E440-06436EEF12A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C434437A-0834-DEDA-E440-06436EEF12A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C434437A-0834-DEDA-E440-06436EEF12A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C434437A-0834-DEDA-E440-06436EEF12A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D0B1DD-FB5B-E0F9-E5AA-88B619E3DFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D0B1DD-FB5B-E0F9-E5AA-88B619E3DFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D0B1DD-FB5B-E0F9-E5AA-88B619E3DFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D0B1DD-FB5B-E0F9-E5AA-88B619E3DFFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

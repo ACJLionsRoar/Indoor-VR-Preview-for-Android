@@ -52,6 +52,7 @@ public class VRAutowalk : MonoBehaviour {
 		if (moveForward) {
 			// Find the forward direction
 			Vector3 forward = vrHead.TransformDirection(Vector3.forward);
+			forward.y = 10f;
 			// Tell CharacterController to move forward
 			controller.SimpleMove(forward * speed);
 		}

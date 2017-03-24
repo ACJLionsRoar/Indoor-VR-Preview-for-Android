@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 5edde6a58730842aeafd31b5333e89b1
+timeCreated: 1490382387
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Art_01
+    100002: Art_02
+    100004: bed
+    100006: Bedrest
+    100008: Ceiling_light
+    100010: Celing
+    100012: CFL
+    100014: LCD
+    100016: //RootNode
+    100018: Particle View 01
+    100020: PillowAndMetress
+    100022: Satup_box
+    100024: Scerting
+    100026: Side_table
+    100028: Side_table001
+    100030: Sofa001
+    100032: table
+    100034: TV
+    100036: VRayCam001
+    100038: VRayCam001.Target
+    100040: VRayIES001
+    100042: VRayIES001.Target
+    100044: VRayIES002
+    100046: VRayIES002.Target
+    100048: VRayIES003
+    100050: VRayIES003.Target
+    100052: VRayIES004
+    100054: VRayIES004.Target
+    100056: VRayIES005
+    100058: VRayIES005.Target
+    100060: VRayIES006
+    100062: VRayIES006.Target
+    100064: VRayIES007
+    100066: VRayIES007.Target
+    100068: VRayIES008
+    100070: VRayIES008.Target
+    100072: VRayIES009
+    100074: VRayIES009.Target
+    100076: VRayIES010
+    100078: VRayIES010.Target
+    100080: VRayLight001
+    100082: VRayLight003
+    100084: VRayLight004
+    100086: VRayLight013
+    100088: VRayLight015
+    100090: VRayLight017
+    100092: VRayLight018
+    100094: VRayLight019
+    100096: VRayLight020
+    100098: VRayLight021
+    100100: VRayLight021 1
+    100102: VRayLight022
+    100104: VRayLight023
+    100106: VRayLight024
+    100108: Wall
+    400000: Art_01
+    400002: Art_02
+    400004: bed
+    400006: Bedrest
+    400008: Ceiling_light
+    400010: Celing
+    400012: CFL
+    400014: LCD
+    400016: //RootNode
+    400018: Particle View 01
+    400020: PillowAndMetress
+    400022: Satup_box
+    400024: Scerting
+    400026: Side_table
+    400028: Side_table001
+    400030: Sofa001
+    400032: table
+    400034: TV
+    400036: VRayCam001
+    400038: VRayCam001.Target
+    400040: VRayIES001
+    400042: VRayIES001.Target
+    400044: VRayIES002
+    400046: VRayIES002.Target
+    400048: VRayIES003
+    400050: VRayIES003.Target
+    400052: VRayIES004
+    400054: VRayIES004.Target
+    400056: VRayIES005
+    400058: VRayIES005.Target
+    400060: VRayIES006
+    400062: VRayIES006.Target
+    400064: VRayIES007
+    400066: VRayIES007.Target
+    400068: VRayIES008
+    400070: VRayIES008.Target
+    400072: VRayIES009
+    400074: VRayIES009.Target
+    400076: VRayIES010
+    400078: VRayIES010.Target
+    400080: VRayLight001
+    400082: VRayLight003
+    400084: VRayLight004
+    400086: VRayLight013
+    400088: VRayLight015
+    400090: VRayLight017
+    400092: VRayLight018
+    400094: VRayLight019
+    400096: VRayLight020
+    400098: VRayLight021
+    400100: VRayLight021 1
+    400102: VRayLight022
+    400104: VRayLight023
+    400106: VRayLight024
+    400108: Wall
+    2300000: Art_01
+    2300002: Art_02
+    2300004: bed
+    2300006: Bedrest
+    2300008: Ceiling_light
+    2300010: Celing
+    2300012: CFL
+    2300014: LCD
+    2300016: PillowAndMetress
+    2300018: Satup_box
+    2300020: Scerting
+    2300022: Side_table
+    2300024: Side_table001
+    2300026: Sofa001
+    2300028: table
+    2300030: TV
+    2300032: Wall
+    3300000: Art_01
+    3300002: Art_02
+    3300004: bed
+    3300006: Bedrest
+    3300008: Ceiling_light
+    3300010: Celing
+    3300012: CFL
+    3300014: LCD
+    3300016: PillowAndMetress
+    3300018: Satup_box
+    3300020: Scerting
+    3300022: Side_table
+    3300024: Side_table001
+    3300026: Sofa001
+    3300028: table
+    3300030: TV
+    3300032: Wall
+    4300000: Wall
+    4300002: Celing
+    4300004: Ceiling_light
+    4300006: CFL
+    4300008: Side_table
+    4300010: Bedrest
+    4300012: bed
+    4300014: Side_table001
+    4300016: Art_02
+    4300018: table
+    4300020: Art_01
+    4300022: LCD
+    4300024: PillowAndMetress
+    4300026: TV
+    4300028: Satup_box
+    4300030: Sofa001
+    4300032: Scerting
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

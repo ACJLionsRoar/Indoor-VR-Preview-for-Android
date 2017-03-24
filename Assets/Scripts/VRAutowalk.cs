@@ -16,7 +16,7 @@ public class VRAutowalk : MonoBehaviour {
 	// CharacterController script
 	private CharacterController controller;
 	// GvrViewer Script
-	private GvrViewer gvrViewer;
+	//private GvrViewer gvrViewer;
 	// VR Head
 	private Transform vrHead;
 
@@ -27,7 +27,7 @@ public class VRAutowalk : MonoBehaviour {
 		// Find the CharacterController
 		controller = GetComponent<CharacterController>();
 		// Find the GvrViewer on child 0
-		gvrViewer = transform.GetChild(0).GetComponent<GvrViewer>();
+		//gvrViewer = transform.GetChild(0).GetComponent<GvrViewer>();
 		// Fnd the VR Head
 		vrHead = Camera.main.transform;
 	}
@@ -52,7 +52,6 @@ public class VRAutowalk : MonoBehaviour {
 		if (moveForward) {
 			// Find the forward direction
 			Vector3 forward = vrHead.TransformDirection(Vector3.forward);
-			forward.y = 10f;
 			// Tell CharacterController to move forward
 			controller.SimpleMove(forward * speed);
 		}

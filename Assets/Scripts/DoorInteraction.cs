@@ -24,6 +24,7 @@ public class DoorInteraction : MonoBehaviour {
 			if (timer >= gazeTime) {
 				ExecuteEvents.Execute (gameObject, new PointerEventData (EventSystem.current), ExecuteEvents.pointerDownHandler);
 				timer = 0f;
+				Debug.Log ("Executed Color Change Event");
 
 //				GetComponent<Collider> ().enabled = false;
 
